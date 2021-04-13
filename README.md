@@ -7,4 +7,4 @@ trained on [Yahoo Answers dataset](https://www.kaggle.com/soumikrakshit/yahoo-an
 This file converts the text format of csv files from the yahoo answer dataset to the tensor format.
 
 ## densenet,py 
-Model implementation 
+Model implementation on yahoo answer dataset
