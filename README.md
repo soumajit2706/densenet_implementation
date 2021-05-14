@@ -8,3 +8,9 @@ This file converts the text format of csv files from the yahoo answer dataset to
 
 ## densenet_yahoo.py 
 Model implementation on yahoo answer dataset
+
+## load_dataset_yelp.py 
+This file converts the text format of csv files from the yelp answer dataset to the tensor format.
+
+## densenet_yelp.py 
+Model implementation on yelp answer dataset
